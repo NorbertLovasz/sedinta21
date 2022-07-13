@@ -1,0 +1,22 @@
+body {
+    font-size: 2rem;
+}
+
+#scroll-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: cyan;
+    width: 40px;
+    height: 40px;
+    visibility: hidden;
+}
+
+#username-error,
+#phone-error {
+    color: red;
+}
+
+.form-results {
+    color: green;
+}
